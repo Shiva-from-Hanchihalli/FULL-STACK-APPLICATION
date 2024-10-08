@@ -50,19 +50,25 @@ mongod
 Start the server from the Server directory:
 
 cd Server
+
 npm start
 
 # Run the Client
 cd client
+
 npm start
 
 
 # API Endpoints
 User Routes
 POST /api/users/register: Register a new user.
+
 POST /api/users/login: User login and token generation.
+
 GET /api/users/profile: Get the logged-in user profile (protected route)
+
 DEL /api/user/:id/:Delete the user.
+
 PUT /api/update/user/:id: update the user By specific ID.
 
 ## Contact
