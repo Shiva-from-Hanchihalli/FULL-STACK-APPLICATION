@@ -61,11 +61,10 @@ npm start
 
 # API Endpoints
 User Routes
-POST /api/users/register: Register a new user.
 
-POST /api/users/login: User login and token generation.
+POST /api/users: User Creation or adding the user
 
-GET /api/users/profile: Get the logged-in user profile (protected route)
+GET /api/users/:Get the all the users.
 
 DEL /api/user/:id/:Delete the user.
 
