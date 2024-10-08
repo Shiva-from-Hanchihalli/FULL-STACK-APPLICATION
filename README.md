@@ -31,11 +31,12 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
    ```bash
    git clone "https://github.com/Shiva-from-Hanchihalli/FULL-STACK-APPLICATION.git"
 
-2. Setup environment variables
-      Create a .env file in the Server directory and add the following variables:
+# Setup environment variables
+   Create a .env file in the Server directory and add the following variables:
 
-# MongoDB URI
+## MongoDB URI
 PORT = 8000
+
 MONGO_URL = "mongodb://localhost:27017/YOUR_DB NAME".
 
 
@@ -67,6 +68,6 @@ PUT /api/update/user/:id: update the user By specific ID.
 ## Contact
 
 If you have any problems or queries, please feel free to contact me at: **shivakumarhm9353@gmail.com**
-# LinkedIn:https://www.linkedin.com/in/shivakumar-h-m-107288212/
+## LinkedIn:https://www.linkedin.com/in/shivakumar-h-m-107288212/
 
 
